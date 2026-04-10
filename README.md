@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Anand 👋
 
-<!--
-**Anand8595/Anand8595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full Stack Developer (MERN)  
+Software Developer Intern  
+Nashik, India  
+---
+## About Me
+Full Stack Developer focused on building clean, scalable, and efficient web applications.  
+Currently practicing Data Structures and Algorithms using Java and exploring AI tools.
+---
+## Tech Stack
+- Java  
+- JavaScript  
+- React  
+- Node.js  
+- Express  
+- MongoDB  
+- Tailwind CSS  
+---
+## Current Focus
+- Data Structures and Algorithms (Java)  
+- Building real-world projects  
+- Exploring AI integrations  
+---
+## Contact
+LinkedIn: https://www.linkedin.com/in/anand-ahire-142519307
